@@ -1,6 +1,6 @@
 ﻿# OKTV releases
 
-Signed OKTV APKs for family devices.
+Signed OKTV APKs for Android devices.
 
 Download the latest `OKTV.apk` from the [Releases](../../releases) page. The OKTV app can also check for updates automatically and offer to install the newest release.
 
