@@ -2,7 +2,7 @@
 
 OKTV is a free, open-source IPTV player for Android TVs, TV boxes and Android phones. You bring your own authorised playlist — nothing else is bundled.
 
-Website: http://oktvhq.digital
+Website: https://oktvhq.digital
 
 ## Features
 
