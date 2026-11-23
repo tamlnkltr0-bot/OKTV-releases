@@ -33,6 +33,12 @@ Website: https://oktvhq.digital
 - Encrypted, passphrase-protected backups of playlists and settings
 - Transfer over Wi-Fi to a phone or PC, or keep a copy in Downloads
 
+## Screenshots
+
+| Main UI | Sports section |
+| --- | --- |
+| ![OKTV live guide](main-ui.jpg) | ![OKTV sports](sports.jpg) |
+
 ## Device support
 
 **Supported:** Android TVs, TV boxes and TV sticks (including older boxes), and Android phones.
