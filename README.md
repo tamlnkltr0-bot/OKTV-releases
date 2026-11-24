@@ -69,6 +69,7 @@ This repository is public so devices can fetch updates without a GitHub login. T
 
 ## Recent changes
 
+- **v0.2.14** — steadier live playback; no more brief pauses or repeated seconds on some channels
 - **v0.2.13** — Forest theme, themed player panels and slimmer Twin Screen labels
 - **v0.2.12** — transient 403s are retried; Referer/User-Agent support and stream diagnostics
 - **v0.2.11** — guide focus stays on the channel you were editing after a hide or rename
