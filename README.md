@@ -69,6 +69,7 @@ This repository is public so devices can fetch updates without a GitHub login. T
 
 ## Recent changes
 
+- **v0.2.16** — playlist volume levels work properly and can be set from the player menu
 - **v0.2.15** — per-playlist volume levels, so louder playlists can be turned down to match
 - **v0.2.14** — steadier live playback; no more brief pauses or repeated seconds on some channels
 - **v0.2.13** — Forest theme, themed player panels and slimmer Twin Screen labels
