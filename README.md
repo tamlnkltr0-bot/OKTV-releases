@@ -69,6 +69,7 @@ This repository is public so devices can fetch updates without a GitHub login. T
 
 ## Recent changes
 
+- **v0.2.18** — optional merged listings for duplicate channels, with automatic feed choice and a Source menu
 - **v0.2.17** — per-playlist buffering levels for steadier streams, and D-pad Right recalls the last channel
 - **v0.2.16** — playlist volume levels work properly and can be set from the player menu
 - **v0.2.15** — per-playlist volume levels, so louder playlists can be turned down to match
